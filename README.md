@@ -22,3 +22,6 @@ The pointer registers are 32-bit EIP, ESP, and EBP registers
 INDEX REGISTERS:
 The 32-bit index registers, ESI and EDI, and their 16-bit rightmost portions.
 ![image](https://user-images.githubusercontent.com/47490071/110325749-a077c280-800f-11eb-8879-cd163a3b31e9.png)
+
+
+More Details: https://www.tutorialspoint.com/assembly_programming/assembly_registers.htm
